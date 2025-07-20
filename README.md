@@ -51,6 +51,17 @@ Automated hate speech detection can be applied in:
 - 📈 Visualization of embedding-based model performance
 
 ---
+## 🔧 Tools & Libraries Used
+
+- `pandas`, `numpy` – Data handling
+- `sklearn` – Model training and evaluation
+- `nltk` – Text preprocessing and lemmatization
+- `tensorflow_hub` – Universal Sentence Encoder
+- `transformers` – BERT & DistilBERT embeddings
+- `matplotlib` – Visualization
+- `re` – Regex for text cleaning
+
+---
 ## Contributing
 Contributions are welcome! To contribute:
 
@@ -77,18 +88,5 @@ Contributions are welcome! To contribute:
 5. Open a pull request with a description of your changes.
    
 **Thank you for choosing this project. Hoping that this project proves useful and delivers a seamless experience for your needs!**
-
-## 🔧 Tools & Libraries Used
-
-- `pandas`, `numpy` – Data handling
-- `sklearn` – Model training and evaluation
-- `nltk` – Text preprocessing and lemmatization
-- `tensorflow_hub` – Universal Sentence Encoder
-- `transformers` – BERT & DistilBERT embeddings
-- `matplotlib` – Visualization
-- `re` – Regex for text cleaning
-
----
-
 
 
